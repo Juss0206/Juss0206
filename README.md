@@ -1,4 +1,4 @@
-👋 Hi, I'm Justin from 
+👋 Hi, I'm Justin 
 🌱 Currently learning: Python, JavaScript, HTML, CSS, Kotlin, and C#
 💻 I am passionate about creating web and mobile applications, exploring game development with Unity, and mastering programming concepts like Object-Oriented Programming (OOP).
 🚀 Projects: Check out my phone number generator in Python and other upcoming projects as I build my portfolio.
